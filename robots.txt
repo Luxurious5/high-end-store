@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://high-end-store-hify5.kinsta.page/sitemap.xml
